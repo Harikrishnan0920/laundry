@@ -1,0 +1,20 @@
+{
+  "address": [
+    {
+      "address": "Home 1",
+      "city": "London"
+    },
+    {
+      "address": "Don Quixote",
+      "city": "Madrid"
+    },
+    {
+      "address": "Joan of Arc",
+      "city": "Paris"
+    },
+    {
+      "address": "Rosa Park",
+      "city": "Alabama"
+    }
+  ]
+}
